@@ -1,1 +1,1 @@
-export { default as Core } from "./core/core";
+export { default as LineChart } from "./line/line";
